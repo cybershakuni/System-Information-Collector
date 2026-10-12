@@ -277,5 +277,5 @@ MIT License. See [LICENSE](LICENSE).
 
 ---
 
-**Author:** Your Name  
+**Author:** CyberShakuni  
 **Focus:** Cybersecurity | Penetration Testing | Security Automation
